@@ -1,6 +1,6 @@
      <!-- FOOTER START -->
      <footer class="bg-primary text-white text-center ">
-        <p class="p-3">Develop By <a class="text-decoration-none text-white fw-bold" href="https://www.instagram.com/s.bosawer/">Samuel Bosawer</a> </p>
+        <p class="p-3">Develop By <a class="text-decoration-none text-white fw-bold" href="https://www.instagram.com/s.bosawer/">Alpais Yalak</a> </p>
     </footer>
 
     <!-- FOOTER END -->
